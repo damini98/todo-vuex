@@ -1,0 +1,13 @@
+
+
+modules
+store
+async
+await
+spread operator ...method
+
+while creating new stuff to do: eg delete
+1) todo.js mein add action
+2) commit it 
+3) put in mutation
+4)call the action in Todos by putting it in list of mapaction and then in template
